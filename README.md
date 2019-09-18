@@ -51,4 +51,4 @@ Guy Harris, M.S.
 Michael F. Miles, M.D., Ph.D.
 <Michael.Miles@vcuhealth.org>
 
-[1]: https://github.com/harrisgm/Sscore2
+[1]: https://github.com/harrisgm/GCSscore
